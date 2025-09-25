@@ -1,4 +1,4 @@
-Version v1.0 → MEOS 1.0
+version v1.0 → MEOS 1.0
 
 Frame: Solid gray with thick bevels (3.1) → thinner, lighter gray bevels (95).
 
@@ -18,7 +18,7 @@ Icons: 16×16 / 32×32, 16-color palette in 3.1 → smoother shading but still l
 
 Scrollbar: Boxy beveled gray with arrows.
 
-Version v2.0 → MEOS 2.0
+version v2.0 → MEOS 2.0
 
 Frame: Softer, refined 3D borders, less harsh shading.
 
@@ -34,7 +34,7 @@ Icons: 256-color support, more detail and smoother dithering.
 
 Scrollbar: Polished, smoother 3D shading.
 
-Version v3.0 → MEOS 3.0
+version v3.0 → MEOS 3.0
 
 Frame: Flatter, more neutral gray-blue theme, reduced beveling.
 
@@ -50,7 +50,7 @@ Icons: High-color (16-bit/24-bit), more realistic designs.
 
 Scrollbar: Thinner, subtle highlights, less contrast.
 
-Version v4.0 → MEOS 4.0
+version v4.0 → MEOS 4.0
 
 Frame: Rounded edges, colorful “Luna” theme (blue/green/silver).
 
